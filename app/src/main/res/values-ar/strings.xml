@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">كيلوريز إيه آي برو</string>
+    <string name="scan_food">مسح الطعام</string>
+    <string name="my_diary">سجلي الغذائي</string>
+    <string name="ai_coach">المدرب الذكي</string>
+    <string name="settings">الإعدادات</string>
+</resources>

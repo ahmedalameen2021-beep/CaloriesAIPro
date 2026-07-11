@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calories AI Pro</string>
+    <string name="scan_food">Scan Food</string>
+    <string name="my_diary">My Diary</string>
+    <string name="ai_coach">AI Coach</string>
+    <string name="settings">Settings</string>
+</resources>
